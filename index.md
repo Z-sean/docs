@@ -7,7 +7,7 @@ hero:
   text: "前端学习笔记"
   tagline: Waiting.....
   image:
-    src: /public/logo.png
+    src: /logo.png
     alt: 头像
   actions:
     - theme: alt

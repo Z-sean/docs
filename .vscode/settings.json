@@ -1,0 +1,14 @@
+{
+  "pasteImage.path": "${projectRoot}/assets/images",
+  "pasteImage.basePath": "${currentFileDir}",
+  "pasteImage.forceUnixStyleSeparator": true,
+
+  "pasteImage.defaultName": "Y-MM-DD-HH-mm-ss",
+  "pasteImage.namePrefix": "${currentFileNameWithoutExt}_",
+  "pasteImage.prefix": "",
+
+  "pasteImage.showFilePathConfirmInputBox": false,
+  "pasteImage.filePathConfirmInputBoxMode": "onlyName",
+
+  "pasteImage.insertPattern": "![](${imageFilePath})"
+}

@@ -110,6 +110,11 @@ export default defineConfig({
               text: "JS函数中的this",
               link: "/2025/JavaScript_基础/4_JS中的this与其绑定规则",
             },
+            
+            {
+              text: "纯函数&组合函数&柯里化",
+              link: "/2025/JavaScript_基础/6_纯函数&组合函数&柯里化",
+            },
           ],
         },
       ],

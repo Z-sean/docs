@@ -115,6 +115,10 @@ export default defineConfig({
               text: "纯函数&组合函数&柯里化",
               link: "/2025/JavaScript_基础/6_纯函数&组合函数&柯里化",
             },
+            {
+              text: "JS知识补充",
+              link: "/2025/JavaScript_基础/7_with&eval&严格模式&对象创建",
+            },
           ],
         },
       ],

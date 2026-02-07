@@ -119,6 +119,11 @@ export default defineConfig({
               text: "JS知识补充",
               link: "/2025/JavaScript_基础/7_with&eval&严格模式&对象创建",
             },
+           
+            {
+              text: "JS面向对象",
+              link: "/2025/JavaScript_基础/8_关于Object",
+            },
           ],
         },
       ],

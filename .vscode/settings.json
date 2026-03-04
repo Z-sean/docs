@@ -10,5 +10,5 @@
   "pasteImage.showFilePathConfirmInputBox": false,
   "pasteImage.filePathConfirmInputBoxMode": "onlyName",
 
-  "pasteImage.insertPattern": "![](${imageFilePath})"
+  "pasteImage.insertPattern": "${imageSyntaxPrefix}${imageFilePath}${imageSyntaxSuffix}"
 }

@@ -124,6 +124,10 @@ export default defineConfig({
               text: "JS面向对象",
               link: "/2025/JavaScript_基础/8_关于Object",
             },
+            {
+              text: "面向对象_继承",
+              link: "/2025/JavaScript_基础/9_JS继承",
+            },
           ],
         },
       ],

@@ -128,4 +128,3 @@ function inheritPrototype(SubType,SuperType){
   })
 }
 ```
-- 

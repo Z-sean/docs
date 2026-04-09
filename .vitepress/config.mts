@@ -75,17 +75,7 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: "邂逅Vue", link: "/前端/Vue/1_第一个Vue应用" },
-            { text: "插值语法&指令", link: "/前端/Vue/2_插值语法&指令" },
-            { text: "组件化&组件通信", link: "/前端/Vue/3_组件化&组件通信" },
-            { text: "插槽&非父子通信", link: "/前端/Vue/4_插槽&非父子通信" },
-            {
-              text: "组件化额外知识补充",
-              link: "/前端/Vue/5_组件化额外知识补充",
-            },
-            { text: "组合式语法", link: "/前端/Vue/6_组合式语法1" },
-            { text: "Vue路由#1", link: "/前端/Vue/7_VueRouter" },
-            { text: "Vue路由#2", link: "/前端/Vue/8_vue-Router2" },
-            { text: "Vuex状态管理", link: "/前端/Vue/9_Vuex状态管理" },
+            { text: "插值语法&指令", link: "/前端/Vue/2_Vue进阶" },
           ],
         },
       ],

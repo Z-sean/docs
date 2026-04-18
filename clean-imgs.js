@@ -7,7 +7,7 @@ const DOCS_DIR = __dirname;
 // 需要忽略的文件夹，避免误扫编译产物、配置和依赖
 const IGNORE_DIRS = [".vitepress", ".vscode", "node_modules", "dist", "cache"];
 // ⚠️ 是否直接执行删除？(强烈建议先保持 false 预览，确认无误再改为 true)
-const EXECUTE_DELETE = false;
+const EXECUTE_DELETE = true;
 // ============================================
 
 function getFiles(dir, extList, fileList = []) {

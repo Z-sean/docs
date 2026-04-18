@@ -69,13 +69,13 @@ export default defineConfig({
           items: [{ text: "Git 使用", link: "/前端/Git/_Git使用流程" }],
         },
       ],
-      "/前端/Vue/": [
+      "/前端/Vue简明教程/": [
         {
-          text: "Vue",
+          text: "Vue简明教程",
           collapsed: false,
           items: [
-            { text: "邂逅Vue", link: "/前端/Vue/1_第一个Vue应用" },
-            { text: "插值语法&指令", link: "/前端/Vue/2_Vue进阶" },
+            { text: "邂逅Vue", link: "/前端/Vue简明教程/1_第一个Vue应用" },
+            { text: "插值语法&指令", link: "/前端/Vue简明教程/2_Vue进阶" },
           ],
         },
       ],
@@ -130,7 +130,34 @@ export default defineConfig({
               text: "响应式",
               link: "/前端/JavaScript_基础/12_响应式",
             },
+            {
+              text: "Promise",
+              link: "/前端/JavaScript_基础/13.Promise",
+            },
+            {
+              text: "迭代器&生成器",
+              link: "/前端/JavaScript_基础/14.迭代器&生成器",
+            },
+            {
+              text: "async&await&事件循环",
+              link: "/前端/JavaScript_基础/15.async&await_事件循环",
+            },
+            {
+              text: "错误处理方案",
+              link: "/前端/JavaScript_基础/16.错误处理方案",
+            },
+            {
+              text: "模块化",
+              link: "/前端/JavaScript_基础/17.模块化",
+            },
           ],
+        },
+      ],
+      "/前端/React简明教程/": [
+        {
+          text: "React简明教程",
+          collapsed: false,
+          items: [],
         },
       ],
     },
